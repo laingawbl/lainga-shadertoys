@@ -1,4 +1,4 @@
-//Mess with my variables!
+//https://www.shadertoy.com/view/XtSSDm
 
 float X_OFFSET 	= 0.5;
 float Y_OFFSET 	= 0.5;
